@@ -1,0 +1,33 @@
+_repo: Obras-Completas-de-Luis-de-Cam-es-Tomo-III_37192
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Camões, Luís de
+    aliases:
+    - Camoes, Luis de
+    - Camões,  Luís Vas de
+    - Camões, Luís Vaz de
+    deathdate: 1580
+    gutenberg_agent_id: '1183'
+    url: http://www.gutenberg.org/2009/agents/1183
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Lu%C3%ADs_de_Cam%C3%B5es
+    - http://pt.wikipedia.org/wiki/Lu%C3%ADs_Vaz_de_Cam%C3%B5es
+description: ''
+gutenberg_issued: '2011-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37192'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portuguese literature -- 16th century'
+- !lcc 'PQ'
+- !lcsh 'Portuguese poetry -- Classical period, 1500-1700'
+title: Obras Completas de Luis de Camões, Tomo III
+url: http://www.gutenberg.org/ebooks/37192
